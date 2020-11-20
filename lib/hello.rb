@@ -1,5 +1,4 @@
     def hello_t(array)
-<<<<<<< HEAD
       if block_given?
         i = 0
      
@@ -24,8 +23,6 @@
       end
     end
   end
-
->>>>>>> 3818e0e909d239a80ded652d732803956b928f05
 
 
 # call your method here!
